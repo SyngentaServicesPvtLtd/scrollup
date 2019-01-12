@@ -1,7 +1,8 @@
 Scroll Up
 ---------
 
-  Scroll up allows users to scroll page back to the top of the screen using a button.
+  Scroll up allows users to scroll page back to the top of the screen
+  using a button.
   
   Scroll up uses Simple JQuery for smooth page scrolling.
 
@@ -22,4 +23,5 @@ Configuration path: admin/config/system/scrollup
 Author's Information:
 ---------------------
 
-The drupal module Scroll Up is developed by Gajendra Sharma (drupalname: gajendra.sharma) at KNOWARTH Technologies.
+The drupal module Scroll Up is developed by Gajendra Sharma
+(drupalname: gajendra.sharma) at KNOWARTH Technologies.
