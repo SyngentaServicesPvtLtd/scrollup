@@ -24,4 +24,4 @@ Author's Information:
 ---------------------
 
 The drupal module Scroll Up is developed by Gajendra Sharma
-(drupalname: gajendra.sharma) at KNOWARTH Technologies.
+(drupalname: gajendra.sharma).
