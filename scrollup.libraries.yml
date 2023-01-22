@@ -7,3 +7,5 @@ scrollup:
     js/scrollup_top.js: {}
   dependencies:
     - core/jquery
+    - core/drupalSettings
+    - core/drupal
