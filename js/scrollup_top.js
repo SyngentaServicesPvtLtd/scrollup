@@ -15,7 +15,7 @@
           var scroll_title = drupalSettings.scrollup_title;
         }
 
-        $('body').append('<a href="#" title="' + scroll_title + '" class="scrollup">Scroll<div class="scroll-title">' + scroll_title + '</div></a>');
+        $('body').once().append('<a href="#" title="' + scroll_title + '" class="scrollup">Scroll<div class="scroll-title">' + scroll_title + '</div></a>');
         var position = drupalSettings.scrollup_position;
         var button_bg_color = drupalSettings.scrollup_button_bg_color;
         var hover_button_bg_color = drupalSettings.scrollup_button_hover_bg_color;

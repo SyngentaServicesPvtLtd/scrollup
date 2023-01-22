@@ -9,3 +9,4 @@ scrollup:
     - core/jquery
     - core/drupalSettings
     - core/drupal
+    - core/jquery.once
